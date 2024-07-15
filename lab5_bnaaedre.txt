@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: codespace
+    Linux system name: codespaces-f10d32
+    Python executable: /home/codespace/.python/current/bin/python3
+    Python version: 31013
+    OS Platform: linux
+    Working Directory: /workspaces/lab-5-bnaaedre
+    Start at: Mon Jul 15 17:29:50 2024
+=================================================================
